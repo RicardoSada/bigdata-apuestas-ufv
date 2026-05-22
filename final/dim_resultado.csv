@@ -1,0 +1,4 @@
+sk_resultado,Codigo_FTR,Descripcion,Definicion,Frecuencia_Pct
+0,H,Victoria Local,El equipo que juega en casa gana el partido,45.2
+1,D,Empate,Ambos equipos terminan con los mismos goles,26.1
+2,A,Victoria Visitante,El equipo que juega fuera de casa gana el partido,28.7
